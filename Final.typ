@@ -29,6 +29,10 @@
     "Normas de Calidad",
     "Innovación en Micromovilidad",
   ),
+  font-family: (
+    "Libertinus Serif",
+    "Hina Mincho",
+  ),
   abstract: [El presente documento representa un análisis comprehensivo de la gestión de calidad en la industria de micromovilidades, integrando múltiples metodologías y estándares internacionales. Mediante la aplicación sistemática de Lean Six Sigma, el Modelo Kano, los principios KAIZEN y las normas ISO 9000, se desarrolla un marco estratégico que busca optimizar la eficiencia operacional, incrementar la satisfacción del cliente y promover la mejora continua. El estudio combina herramientas analíticas y metodológicas para abordar los desafíos contemporáneos en la gestión de calidad total, proporcionando una visión integral y práctica para la transformación organizacional en el sector de micromovilidades.],
 )
 
@@ -813,6 +817,7 @@ Y ubicando los promedios en el eje $x$ del plano del modelo Kano, se obtiene el 
   ],
 )
 
+#pagebreak()
 == 改善 (Kaizen): Transformación Organizacional mediante los 12 Principios de Mejora Continua
 Kaizen es una filosofía de mejora continua que se enfoca en la optimización de procesos, la eliminación de desperdicios y la promoción de la eficiencia en todas las áreas de una organización. Los 12 principios de Kaizen son fundamentales para la implementación exitosa de esta metodología y la transformación organizacional en la industria de micromovilidades.
 
@@ -1024,12 +1029,17 @@ Shijonka se enfoca en la multitarea y la eficiencia en la realización de difere
 - Reducción de costos
 - Mejora de productividad
 
+#pagebreak()
 == ISO 9001:2015---Estandarización y Sistemas de Gestión de Calidad en la Industria de Micromovilidades
 // TODO: Como se aplico la iso en la industria (3 artículos)
 
 #pagebreak()
 = Conclusiones y Recomendaciones
 == Conclusiones
+=== Modelo de Kano
+=== Principios de Kaizen
+=== ISO 9001:2015
+
 == Recomendaciones
 
 #pagebreak()
