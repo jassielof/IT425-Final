@@ -1025,7 +1025,7 @@ Shijonka se enfoca en la multitarea y la eficiencia en la realización de difere
 - Mejora de productividad
 
 == ISO 9001:2015---Estandarización y Sistemas de Gestión de Calidad en la Industria de Micromovilidades
-// Como se aplico la iso en la industria (3 artículos)
+// TODO: Como se aplico la iso en la industria (3 artículos)
 
 #pagebreak()
 = Conclusiones y Recomendaciones
