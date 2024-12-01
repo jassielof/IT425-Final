@@ -857,13 +857,13 @@ Además, aplicando este principio a mi ropero y armario, me aseguro de que solo 
 #pagebreak()
 #figure(
   caption: [Estante de mi ropero con ropa que no uso],
-  image("assets/2024-11-30-22-07-21.png")
+  image("assets/2024-11-30-22-07-21.png"),
 )
 
 #pagebreak()
 #figure(
   caption: [Estantería de mi ropero más libre con ropa que realmente uso],
-  image("assets/2024-11-30-22-08-45.png")
+  image("assets/2024-11-30-22-08-45.png"),
 )
 
 Seleccionar las prendas de mi armario que realmente uso y me gustan me ayuda a simplificar mi vida y a mantenerme enfocado en lo que es importante para mí. La organización de mi ropa me permite ahorrar tiempo y energía al elegir mi atuendo diario y me brinda una sensación de calma y claridad mental.
@@ -883,13 +883,13 @@ Seiton es igualmente beneficioso para mi armario, ya que me permite organizar mi
 #pagebreak()
 #figure(
   caption: [Foto de mi ropero desorganizado],
-  image("assets/2024-11-30-22-02-00.png")
+  image("assets/2024-11-30-22-02-00.png"),
 )
 
 #pagebreak()
 #figure(
   caption: [Foto de mi armario organizado],
-  image("assets/2024-11-30-22-05-49.png")
+  image("assets/2024-11-30-22-05-49.png"),
 )
 
 Siendo una persona ya organizada, Seiton es un hábito que me resulta fácil de mantener y que me brinda beneficios tangibles en mi vida diaria. Como ser clasificar mi ropa por ocasiones (de salir, formal, deportiva, etc.), además de organizar mis zapatos, ropa de invierno y verano, y accesorios.
@@ -909,31 +909,31 @@ Aplicando este principio a mi ropero y armario, me aseguro de mantener mi ropa l
 #pagebreak()
 #figure(
   caption: [Mi ropero con polvo],
-  image("assets/2024-11-30-22-04-23.png")
+  image("assets/2024-11-30-22-04-23.png"),
 )
 
 #pagebreak()
 #figure(
   caption: [Estante de mi ropero con pelos de gato y dejadeces de snacks],
-  image("assets/2024-11-30-22-05-23.png")
+  image("assets/2024-11-30-22-05-23.png"),
 )
 
 #pagebreak()
 #figure(
   caption: [Ropero limpio y organizado (sin polvo)],
-  image("assets/2024-11-30-22-02-45.png")
+  image("assets/2024-11-30-22-02-45.png"),
 )
 
 #pagebreak()
 #figure(
   caption: [Ropero limpio y organizado (sin polvo) en otro estante],
-  image("assets/2024-11-30-22-03-32.png")
+  image("assets/2024-11-30-22-03-32.png"),
 )
 
 #pagebreak()
 #figure(
   caption: [Estantería de mi ropero limpio y libre de pelos de gato],
-  image("assets/2024-11-30-22-13-40.png")
+  image("assets/2024-11-30-22-13-40.png"),
 )
 
 Seiso es un principio que me ayuda a mantener un entorno limpio y ordenado, lo cual es fundamental para mi bienestar y productividad. La limpieza y el orden en mi espacio de trabajo y hogar me permiten concentrarme y trabajar de manera eficiente, además de promover un ambiente saludable y armonioso.
