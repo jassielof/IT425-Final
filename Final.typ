@@ -832,7 +832,7 @@ Tales principios son los siguientes:
 + *Seiton*: Colocar cada cosa en su lugar.
 + *Shitsokoku*: Terminar lo que se comienza.
 + *Surukaku*: Alcanzar objetivos de manera amigable y divertida.
-+ *Seiso*: Eliminar lo innecesario.
++ *Seiso*: Eliminar las impurezas y mantener un entorno limpio.
 + *Seido*: Documentar buenas prácticas y experiencias.
 + *Shijonka*: Realizar múltiples tareas de manera eficiente.
 
@@ -854,7 +854,19 @@ Seiri, que implica eliminar lo que no aporta valor, es un principio que aplico e
 // Ropero
 Además, aplicando este principio a mi ropero y armario, me aseguro de que solo tengo la ropa que uso y me queda bien, eliminando lo que ya no me sirve o no me gusta. Mantener mi ropero organizado me ayuda a ahorrar tiempo y energía al elegir mi atuendo diario y me permite enfocarme en lo que es realmente importante para mí.
 
-// TODO: agregar una foto antes/después
+#pagebreak()
+#figure(
+  caption: [Estante de mi ropero con ropa que no uso],
+  image("assets/2024-11-30-22-07-21.png")
+)
+
+#pagebreak()
+#figure(
+  caption: [Estantería de mi ropero más libre con ropa que realmente uso],
+  image("assets/2024-11-30-22-08-45.png")
+)
+
+Seleccionar las prendas de mi armario que realmente uso y me gustan me ayuda a simplificar mi vida y a mantenerme enfocado en lo que es importante para mí. La organización de mi ropa me permite ahorrar tiempo y energía al elegir mi atuendo diario y me brinda una sensación de calma y claridad mental.
 
 ==== Shikari
 Shikari, que se refiere al cumplimiento de tareas y objetivos con buenas prácticas, es un principio que aplico en mi vida diaria al establecer metas claras y desarrollar un plan de acción para alcanzarlas. Me comprometo a trabajar de manera eficiente y efectiva, utilizando buenas prácticas y estrategias para lograr mis objetivos de manera consistente.
@@ -868,7 +880,19 @@ Seiton, que implica colocar cada cosa en su lugar, es un principio que aplico en
 // Ropero
 Seiton es igualmente beneficioso para mi armario, ya que me permite organizar mi ropa de manera eficiente y encontrar fácilmente lo que necesito. Clasifico mi ropa por tipo, color y temporada, y la guardo en compartimentos designados para facilitar la selección y combinación de atuendos. La organización de mi armario me ayuda a ahorrar tiempo y reducir el estrés al elegir mi ropa diaria.
 
-// TODO: agregar una foto antes/después
+#pagebreak()
+#figure(
+  caption: [Foto de mi ropero desorganizado],
+  image("assets/2024-11-30-22-02-00.png")
+)
+
+#pagebreak()
+#figure(
+  caption: [Foto de mi armario organizado],
+  image("assets/2024-11-30-22-05-49.png")
+)
+
+Siendo una persona ya organizada, Seiton es un hábito que me resulta fácil de mantener y que me brinda beneficios tangibles en mi vida diaria. Como ser clasificar mi ropa por ocasiones (de salir, formal, deportiva, etc.), además de organizar mis zapatos, ropa de invierno y verano, y accesorios.
 
 ==== Shitsokoku
 Shitsokoku, que se refiere a terminar lo que se comienza, es un principio que aplico en mi vida diaria al comprometerme a completar las tareas y proyectos que inicio. Me esfuerzo por mantener el enfoque y la dedicación necesarios para llevar a cabo mis objetivos, incluso cuando enfrento obstáculos o desafíos. La perseverancia y la determinación son clave para lograr el éxito.
@@ -877,12 +901,44 @@ Shitsokoku, que se refiere a terminar lo que se comienza, es un principio que ap
 Surukaku, que implica alcanzar objetivos de manera amigable y divertida, es un principio que aplico en mi vida diaria al mantener una actitud positiva y optimista en todo lo que hago. Me esfuerzo por abordar los desafíos con una mentalidad abierta y creativa, y busco oportunidades para disfrutar del proceso y aprender de cada experiencia. La actitud positiva y la alegría son fundamentales para mantener la motivación y la inspiración en mi vida diaria.
 
 ==== Seiso
-Seiso, que implica eliminar lo innecesario, es un principio que aplico en mi vida diaria al simplificar y reducir el exceso en mi vida. Me esfuerzo por identificar y eliminar las distracciones y los compromisos que no aportan valor, y me enfoco en lo que es más importante y significativo para mí. La simplificación y la claridad me ayudan a mantener el enfoque y la dirección en mi vida diaria.
+Seiso, que implica eliminar las impurezas y mantener un entorno limpio, es un principio que aplico en mi vida diaria al mantener mi espacio de trabajo y hogar limpios y ordenados. Me esfuerzo por limpiar y organizar regularmente mi entorno, eliminando la suciedad y el desorden para crear un ambiente armonioso y saludable. La limpieza y el orden son fundamentales para mi bienestar y productividad.
 
 // Ropero
-Seiso también se aplica a mi ropero, ya que me permite revisar y reducir mi colección de ropa a lo esencial y lo que realmente me gusta y uso. Elimino la ropa que ya no me sirve o no me hace feliz, y me enfoco en mantener un armario con prendas de calidad y versátiles que se adapten a mi estilo de vida y preferencias. La simplificación de mi ropero me ayuda a ahorrar tiempo y energía al elegir mi atuendo diario y me permite enfocarme en lo que realmente importa para mí.
+Aplicando este principio a mi ropero y armario, me aseguro de mantener mi ropa limpia y bien cuidada, eliminando manchas y reparando daños menores. Lavar, doblar y guardar mi ropa de manera adecuada me ayuda a mantenerla en buen estado y prolongar su vida útil. La limpieza y el mantenimiento regular de mi ropa son esenciales para su durabilidad y calidad.
 
-// TODO: agregar una foto antes/después
+#pagebreak()
+#figure(
+  caption: [Mi ropero con polvo],
+  image("assets/2024-11-30-22-04-23.png")
+)
+
+#pagebreak()
+#figure(
+  caption: [Estante de mi ropero con pelos de gato y dejadeces de snacks],
+  image("assets/2024-11-30-22-05-23.png")
+)
+
+#pagebreak()
+#figure(
+  caption: [Ropero limpio y organizado (sin polvo)],
+  image("assets/2024-11-30-22-02-45.png")
+)
+
+#pagebreak()
+#figure(
+  caption: [Ropero limpio y organizado (sin polvo) en otro estante],
+  image("assets/2024-11-30-22-03-32.png")
+)
+
+#pagebreak()
+#figure(
+  caption: [Estantería de mi ropero limpio y libre de pelos de gato],
+  image("assets/2024-11-30-22-13-40.png")
+)
+
+Seiso es un principio que me ayuda a mantener un entorno limpio y ordenado, lo cual es fundamental para mi bienestar y productividad. La limpieza y el orden en mi espacio de trabajo y hogar me permiten concentrarme y trabajar de manera eficiente, además de promover un ambiente saludable y armonioso.
+
+Seiso me ayuda a mantener mi ropero y armario limpios y organizados, lo cual es esencial para prolongar la vida útil de mi ropa y mantenerla en buen estado. La limpieza y el mantenimiento regular de mi ropa me permiten disfrutar de prendas limpias y frescas, y facilitan la selección y combinación de atuendos diarios.
 
 ==== Seido
 Seido, que se refiere a documentar buenas prácticas y experiencias, es un principio que aplico en mi vida diaria al aprender de mis experiencias y reflexionar sobre mis acciones. Me esfuerzo por documentar mis logros y desafíos, y utilizarlos como lecciones para crecer y mejorar. La auto-reflexión y el aprendizaje continuo son fundamentales para mi desarrollo personal y profesional.
@@ -1031,16 +1087,89 @@ Shijonka se enfoca en la multitarea y la eficiencia en la realización de difere
 
 #pagebreak()
 == ISO 9001:2015---Estandarización y Sistemas de Gestión de Calidad en la Industria de Micromovilidades
-// TODO: Como se aplico la iso en la industria (3 artículos)
+
+=== Impacto de la Implementación de la ISO en la Calidad de los Servicios
+La implementación de las normas ISO 9001:2015 mejora significativamente la calidad del servicio en la industria de la micromovilidad al fomentar un sistema estructurado de gestión de calidad. Esta norma enfatiza la mejora continua, la satisfacción del cliente y la comunicación efectiva, que son cruciales para los sectores orientados al servicio. Entre algunos ejemplos de los beneficios de la implementación de ISO 9001:2015 en la industria de micromovilidades se encuentran:
+
+==== Mejora de la Cultura Organizacional
+ISO 9001:2015 promueve una cultura de calidad dentro de las organizaciones, lo que lleva a un mejor desempeño y compromiso de los empleados~@saifhul_anuar_syahdan__2021. Además, involucra una sólida cultura de calidad que fomenta el cumplimiento de los procedimientos, lo cual es esencial para una prestación de servicios consistente.
+
+==== Satisfacción Mejorada del Cliente
+Los estudios indican que la implementación de ISO 9001:2015 se correlaciona positivamente con la satisfacción del cliente, como se ve en diversas organizaciones de servicios~@anis_syamimi_abd_rahim__2018. Mientras que los mecanismos de retroalimentación, establecidos bajo las normas ISO, ayudan a las organizaciones a abordar las quejas de los clientes de manera efectiva, mejorando la calidad general del servicio~@m__h__magana__2020.
+
+==== Mayor Eficiencia Operacional
+El estándar facilita una comunicación más clara y tiempos de respuesta más rápidos a las consultas de los clientes, lo cual es vital en el competitivo mercado de la micromovilidad~@yosep_hernawan__2019. Puesto eso, las organizaciones que adoptan la norma ISO 9001:2015 a menudo reportan mejores procesos administrativos, lo que lleva a una mejor entrega de servicios~@renta_czdrov__2023.
+
+Por el contrario, si bien ISO 9001:2015 puede mejorar la calidad del servicio, su implementación también puede presentar desafíos, como la resistencia al cambio entre los empleados o la necesidad de una capacitación extensa, lo que podría interrumpir temporalmente las operaciones de servicio.
+
+=== Indicadores Clave de Desempeño para la Evaluación de la Eficiencia
+La efectividad de ISO 9001:2015 en la industria de la micromovilidad se puede medir a través de varios indicadores clave de desempeño (KPI) que reflejan resultados operativos y relacionados con el cliente. Estos KPI son esenciales para evaluar qué tan bien las organizaciones cumplen con los estándares de gestión de calidad y las expectativas de los clientes. En las siguientes secciones se describen los KPI principales relevantes para este contexto.
+
+==== Satisfacción del Cliente
+- Comentarios de los clientes: Encuestas periódicas para medir los niveles de satisfacción entre los usuarios de los servicios de micromovilidad.
+- Net Promoter Score (NPS): Mide la lealtad del cliente y la probabilidad de recomendar servicios a otros.
+- Tiempo de Resolución de Quejas: Realiza un seguimiento de la eficiencia de atender las quejas de los clientes, reflejando la capacidad de respuesta y la calidad del servicio~@vesna_milovanovi__2023.
+
+==== Performance Operacional
+- Eficiencia de Procesos: Métricas como el tiempo promedio de servicio y las tasas de disponibilidad del vehículo para evaluar la efectividad operativa.
+- Métricas de Control de Calidad: Monitoreo de tasas de defectos en vehículos y prestación de servicios para asegurar el cumplimiento de las normas ISO~@yurnalisdel_yurnalisdel__2022.
+- Compromiso de los empleados: Evaluar la satisfacción interna del cliente a través de encuestas a los empleados, lo que puede impactar la calidad del servicio~@vesna_milovanovi__2023.
+
+==== Desempeño Financiero
+- Reducción de costos: Analizar costos operativos antes y después de la certificación ISO para medir el impacto financiero.
+- Crecimiento de los ingreso: Seguimiento del crecimiento de las ventas como resultado de la mejora de la calidad del servicio y la satisfacción del cliente~@gilad_issar__2015.
+
+Si bien estos KPI proporcionan un enfoque estructurado para medir la efectividad de ISO 9001:2015, es importante considerar que la implementación de estos estándares puede no conducir de manera uniforme a mejoras de performance en todas las organizaciones. La variabilidad en la cultura organizacional y las condiciones del mercado puede influir en los resultados~@thea_thomas_mtau__2023.
+
+=== Implementación como Estrategia para la Mejora de Satisfacción y Fidelización del Cliente
+La adopción de las normas ISO 9001:2015 puede mejorar significativamente la satisfacción y lealtad del cliente en la industria de la micromovilidad al establecer un marco para la gestión de calidad que se alinee con las expectativas de los clientes. Este estándar enfatiza la mejora continua y el enfoque al cliente, que son cruciales en un mercado competitivo. Los siguientes puntos ilustran cómo ISO 9001:2015 puede afectar la satisfacción y lealtad del cliente.
+
+==== Mecanismos de mejora de la calidad
+- Ciclo PDCA: El énfasis de la norma en el ciclo Planificar-Do-Check-Act (PDCA) facilita mejoras sistemáticas de calidad, lo que lleva a una mejor calidad del producto y a la satisfacción del cliente~@n__m__pallawala__2018.
+- Auditorías Internas: Se ha demostrado que las auditorías internas periódicas, un requisito clave de ISO 9001, influyen significativamente en la satisfacción del cliente al garantizar el cumplimiento e identificar áreas de mejora~@branislav_tomic__2019.
+
+==== Enfoque centrado en el cliente
+- Calidad del servicio: La implementación de la norma ISO 9001:2015 se ha vinculado a una mejor calidad del servicio, como se ve en los entornos sanitarios, que puede ser análoga a la prestación de servicios en micromovilidad~@anis_syamimi_abd_rahim__2018.
+- Mecanismos de Retroalimentación: La norma alienta a las organizaciones a recopilar y analizar los comentarios de los clientes, fomentando un enfoque receptivo a las necesidades de los cliente~2@andrea_estefania_snchez_osorio__2013.
+
+==== Ventaja competitiva
+Diferenciación del mercado: Las empresas adheridas a ISO 9001:2015 pueden diferenciarse en el mercado de la micromovilidad, atrayendo clientes que prioricen la calidad y la confiabilidad~@andrea_estefania_snchez_osorio__2013.
+
+Por el contrario, si bien la norma ISO 9001:2015 puede mejorar la satisfacción del cliente, su implementación puede requerir importantes recursos y compromiso, lo que podría ser un desafío para las empresas de micromovilidad más pequeñas. Equilibrar la administración de calidad con la eficiencia operacional sigue siendo una consideración crítica.
 
 #pagebreak()
 = Conclusiones y Recomendaciones
 == Conclusiones
+
+=== Lean Six Sigma
+La implementación de Lean Six Sigma en la industria de micromovilidades ha demostrado ser una herramienta poderosa para la optimización de procesos y la reducción de defectos. La metodología permite una reconfiguración integral de procesos, identificando ineficiencias ocultas y generando ahorros significativos en recursos y tiempo. Además, Lean Six Sigma no solo optimiza procesos existentes, sino que también crea un ecosistema de innovación continua, permitiendo a las organizaciones responder con agilidad a las cambiantes demandas del mercado. La reducción de desperdicios y la optimización de recursos contribuyen directamente a los objetivos ambientales y económicos de la organización, posicionando a las empresas para un éxito a largo plazo en un mercado competitivo y en constante evolución.
+
+Para MicroMove Technologies, la implementación de Lean Six Sigma no solo representa una metodología de optimización, sino una estrategia transformacional que permitirá identificar ineficiencias críticas en nuestros procesos de micromovilidad, generando ahorros significativos y estableciendo una cultura de mejora continua.
+
 === Modelo de Kano
+El modelo de Kano es una herramienta valiosa para comprender las necesidades y expectativas de los usuarios en la industria de micromovilidades. Al clasificar las características del producto en básicas, de rendimiento y atractivas, las empresas pueden desarrollar servicios que satisfagan de manera efectiva las demandas de los clientes. Las características básicas, como la seguridad y la disponibilidad de vehículos, son esenciales para evitar la insatisfacción. Las características de rendimiento, como la velocidad y la autonomía, aumentan la satisfacción proporcionalmente a su implementación. Las características atractivas, como la conectividad avanzada y las opciones de personalización, pueden diferenciar radicalmente un producto y crear una ventaja competitiva distintiva. La aplicación del modelo de Kano permite a las empresas priorizar y enfocar sus esfuerzos en las áreas que más impactan la satisfacción del cliente.
+
+La aplicación del modelo de Kano nos permite no solo comprender las expectativas de nuestros usuarios, sino diseñar una estrategia de desarrollo de producto que anticipe sus necesidades. Al diferenciar entre características básicas, de rendimiento y atractivas, MicroMove Technologies puede crear una propuesta de valor única en el competitivo mercado de micromovilidades.
+
 === Principios de Kaizen
+La filosofía de Kaizen, con sus 12 principios, se enfoca en la mejora continua y la optimización de procesos tanto en la vida diaria como en la industria de micromovilidades. Aplicados a la vida diaria, estos principios promueven la disciplina, el bienestar, la convivencia social, la eliminación de lo innecesario, el cumplimiento de tareas, la atención plena, la organización, la perseverancia, la actitud positiva, la limpieza, la estandarización y la eficiencia multitarea. En la industria de micromovilidades, Kaizen impulsa la eficiencia operativa, la reducción de desperdicios y la promoción de un entorno de trabajo saludable y productivo. La implementación de Kaizen en la industria permite una mejora continua en todas las áreas, desde la producción hasta la gestión de flotas y el servicio al cliente, contribuyendo a la sostenibilidad y competitividad de la empresa.
+
+Los 12 principios de Kaizen representan más que una metodología: son una filosofía de transformación tanto personal como organizacional. En MicroMove Technologies, estos principios se traducirán en procesos más eficientes, una cultura de mejora continua y un compromiso permanente con la excelencia operativa.
+
 === ISO 9001:2015
+La implementación de ISO 9001:2015 en la industria de micromovilidades mejora significativamente la calidad del servicio al fomentar un sistema estructurado de gestión de calidad. Esta norma enfatiza la mejora continua, la satisfacción del cliente y la comunicación efectiva, que son cruciales para los sectores orientados al servicio. La adopción de ISO 9001:2015 promueve una cultura de calidad dentro de las organizaciones, lo que lleva a un mejor desempeño y compromiso de los empleados. Además, se correlaciona positivamente con la satisfacción del cliente y facilita una comunicación más clara y tiempos de respuesta más rápidos a las consultas de los clientes. Sin embargo, su implementación también puede presentar desafíos, como la resistencia al cambio y la necesidad de una capacitación extensa. Superar estos obstáculos es crucial para maximizar los beneficios de la norma y asegurar una mejora continua en la calidad del servicio.
+
+La implementación de ISO 9001:2015 en MicroMove Technologies no será simplemente un cumplimiento normativo, sino una oportunidad estratégica para elevar nuestros estándares de calidad, fortalecer nuestra reputación en el mercado y establecer una diferenciación competitiva basada en la excelencia del servicio.
 
 == Recomendaciones
+1. *Compromiso de la Alta Dirección*: Es esencial que la alta dirección se comprometa firmemente con la implementación de Lean Six Sigma, Kaizen y ISO 9001:2015 para asegurar el éxito de estas metodologías.
+2. *Capacitación y Sensibilización*: Invertir en programas de capacitación y sensibilización para empleados en todos los niveles de la organización es crucial para superar la resistencia al cambio y asegurar una adopción efectiva con énfasis en la transformación digital y la adaptabilidad.
+3. *Monitoreo y Evaluación Continua*: Implementar sistemas de monitoreo y evaluación continua para medir el impacto de estas metodologías y realizar ajustes necesarios para mejorar la eficiencia y la calidad usando métricas específicas de la industria de micromovilidades.
+4. *Fomento de la Innovación*: Crear un entorno que fomente la innovación y la mejora continua, permitiendo a la organización adaptarse rápidamente a los cambios del mercado y desarrollar soluciones disruptivas con especial atención a tecnologías emergentes y soluciones sostenibles.
+5. *Enfoque en el Cliente*: Mantener un enfoque constante en las necesidades y expectativas del cliente, utilizando herramientas como el modelo de Kano para priorizar las características del producto que más impactan la satisfacción del cliente.
+
+== Reflexión Final
+La implementación integrada de Lean Six Sigma, el modelo de Kano, los principios de Kaizen y la norma ISO 9001:2015 representa un punto de inflexión estratégico para la transformación organizacional y la mejora continua en la industria de micromovilidades. Estas metodologías no solo optimizan los procesos y mejoran la calidad del servicio, sino que también crean un ecosistema de innovación y sostenibilidad que posiciona a las empresas para un éxito a largo plazo en un mercado dinámico y competitivo. Para _MicroMove Technologies_, y el sector de micromovilidades en general, esta aproximación no es solo una herramienta de gestión, sino un camino hacia la excelencia operacional y la transformación digital.
 
 #pagebreak()
 #outline(

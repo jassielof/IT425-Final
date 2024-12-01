@@ -432,3 +432,161 @@ preeti_rathore__2024:
   parent:
     type: periodical
     title: "ShodhKosh Journal of Visual and Performing Arts"
+
+saifhul_anuar_syahdan__2021:
+  type: misc
+  title: " Impact of ISO 9001 Quality Management System Implementation on Organizational Quality Culture and Employee Performance "
+  author:
+    - Syahdan, Saifhul Anuar
+    - Mujennah
+    - Artinah, Budi
+  date: 2021
+m__h__magana__2020:
+  type: article
+  title: " The Implementation of ISO 9001:2015 to Improve Quality Service: A Descriptive Study on a South African Service Organization "
+  author:
+    - Magana, M. H.
+    - Bakama, E. M.
+    - Mukwakungu, S. C.
+    - Sukdeo, Nita
+  date: 2020
+  serial-number:
+    doi: " 10.1109/IEEM45057.2020.9309854 "
+  parent:
+    type: proceedings
+renta_czdrov__2023:
+  type: article
+  title: " Investigation of the Effectiveness of the Introduction of the Quality Management System According to the ISO 9001 Standard in Transport Companies: Slovakia Case Study "
+  author:
+    - Cződörová, Renáta
+    - Gnap, Jozef
+  date: 2023
+  serial-number:
+    doi: " 10.3390/su15032401 "
+  parent:
+    type: periodical
+    title: " Sustainability "
+anis_syamimi_abd_rahim__2018:
+  type: article
+  title: " The implementation of iso 9001:2015 to improve quality of service at pusat kesihatan universiti (pku), universiti utara malaysia(uum) "
+  author:
+    - Rahim, Anis Syamimi Abd
+    - Asaad, Mohd Norhasni Mohd
+  date: 2018
+  serial-number:
+    doi: " 10.32890/JTOM2018.13.2.7 "
+  parent:
+    type: periodical
+yosep_hernawan__2019:
+  type: article
+  title: " The implementation of iso 9001: 2015 quality management system at pt tarumatex bandung "
+  author:
+    - Hernawan, Yosep
+    - Dewi, Sri Wijaya Kesuma
+    - Musafa, Musafa
+  date: 2019
+  serial-number:
+    doi: " 10.32506/JOES.V2I1.487 "
+  parent:
+    type: periodical
+vesna_milovanovi__2023:
+  type: article
+  title: " Measuring the Impact of ISO 9001 on Employee and Customer Related Company Performance "
+  author:
+    - Milovanović, Vesna
+    - Paunovic, Mihailo
+    - Casadesús, Martí
+  date: 2023
+  serial-number:
+    doi: " 10.12776/qip.v27i1.1808 "
+  parent:
+    type: periodical
+    title: " Quality, Innovation, Prosperity "
+david_parmenter_2006:
+  type: misc
+  title: " Key performance indicators: pengembangan implementation dan penggunaan KPI terpilih "
+  author: Parmenter, David
+  date: 2006
+gilad_issar__2015:
+  type: anthos
+  title: " Key Performances Indicators (KPI) "
+  author:
+    - Issar, Gilad
+    - Navon, Liat Ramati
+  date: 2015
+  serial-number:
+    doi: " 10.1007/978-3-319-20699-8_17 "
+  parent:
+    type: anthology
+yurnalisdel_yurnalisdel__2022:
+  type: article
+  title: " Analisis Penerapan Sistem Manajemen Mutu ISO 9001:2015 Terhadap Kinerja Operasional Perusahaan "
+  author:
+    - Yurnalisdel, Yurnalisdel
+    - Iskandar, Isdaryanto
+  date: 2022
+  serial-number:
+    doi: " 10.59141/comserva.v2i08.464 "
+  parent:
+    type: periodical
+    title: " COMSERVA "
+thea_thomas_mtau__2023:
+  type: article
+  title: " Optimizing Business Performance through KPI Alignment: A Comprehensive Analysis of Key Performance Indicators and Strategic Objectives "
+  author:
+    - Mtau, Thea Thomas
+    - Rahul, Nelsen A.
+  date: 2023
+  serial-number:
+    doi: " 10.4236/ajibm.2024.141003 "
+  parent:
+    type: periodical
+    title: " American Journal of Industrial and Business Management "
+adela_aurelia_kinaya_dewi__2024:
+  type: article
+  title: " Analisis Sistem Manajemen Mutu Iso 9001:2015 Pada Proses Bisnis Dan Pemenuhan Kepuasan Pelanggan Pt Inka Multi Solusi "
+  author:
+    - Dewi, Adela Aurelia Kinaya
+    - Kusumasari, Indah Respati
+  date: 2024
+  serial-number:
+    doi: " 10.59246/muqaddimah.v2i2.767 "
+  parent:
+    type: periodical
+n__m__pallawala__2018:
+  type: article
+  title: " Testing the ISO 9001:2015 Process Model: An Australasian Empirical Study "
+  author:
+    - Pallawala, N. M.
+    - Jayamaha, Nihal
+    - Grigg, Nigel P.
+  date: 2018
+  serial-number:
+    doi: " 10.1109/IEEM.2018.8607683 "
+  parent:
+    type: proceedings
+andrea_estefania_snchez_osorio__2013:
+  type: misc
+  title: ' Documentación del sistema de gestión de calidad bajo la Norma ISO 9001:2015 para la empresa "Transportes A.R. S.A.S." '
+  author:
+    - Osorio, Andrea Estefania Sánchez
+    - Fonseca, Oscar Andrés Cerón
+  date: 2013
+branislav_tomic__2019:
+  type: article
+  title: " Customer satisfaction and ISO 9001 improvement requirements in the supply chain "
+  author:
+    - Tomic, Branislav
+    - Brkic, Vesna Spasojevic
+  date: 2019
+  serial-number:
+    doi: " 10.1108/TQM-07-2017-0072 "
+  parent:
+    type: periodical
+    title: " The Tqm Journal "
+ISO9001_2015:
+  type: web
+  title: "ISO 9001:2015 Quality management systems -- Requirements"
+  url: "https://www.iso.org/standard/62085.html"
+  date: 2015
+  publisher: "International Organization for Standardization"
